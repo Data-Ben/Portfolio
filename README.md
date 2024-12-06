@@ -7,7 +7,7 @@ This is a Power BI dashboard that provides a high-level overview of yearly sales
                     
  3.Revenue broken down by month, along with a running total of profit.
 
- Follow this link to download the full project: 
+ Follow this link to download the full project: https://github.com/Data-Ben/Portfolio
 
 # Dashboard
 ![Retail Report_page-0001](https://github.com/user-attachments/assets/5ca4ec01-f60b-4f78-b4bc-9175a7d2d249)
